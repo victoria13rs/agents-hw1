@@ -1,0 +1,14 @@
+{
+ "v1-fixed_storage_blocked": {
+  "tasks_shown": 3,
+  "js_errors": [],
+  "body_has_75": true
+ },
+ "v2_storage_blocked": {
+  "tasks_shown": 3,
+  "js_errors": [],
+  "body_has_75": true,
+  "notice": "Хранилище браузера недоступно. Трекер работает, но изменения сохранятся только до закрытия страницы."
+ },
+ "v2_selfTest": true
+}
